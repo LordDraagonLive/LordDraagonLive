@@ -1,6 +1,6 @@
 ### Hi there, I'm Buddhi Adhikari 👋
 
-- 🔭 I’m currently working on ... Fuck All
+- 🔭 I’m currently working on ... Everything and Nothing
 - 🌱 I’m currently learning ... Blazor
 - 👯 I’m looking to collaborate on ... .NET
 - 🤔 I’m looking for help with ... Nothing really
