@@ -1,7 +1,7 @@
 ### Hi there, I'm Buddhi Adhikari 👋
 
-- 🔭 I’m currently working on ... Everything and Nothing
-- 🌱 I’m currently learning ... Blazor
+- 🔭 I’m currently working on ... Everything and Nothing (Open Banking)
+- 🌱 I’m currently learning ... Angular & Azure
 - 👯 I’m looking to collaborate on ... .NET
 - 🤔 I’m looking for help with ... Nothing really
 - 💬 Ask me about ... Python, Blockchain and .NET
