@@ -8,7 +8,7 @@
 - 😄 Pronouns: ... Beep/Bop/Boop (I don't do crazy)
 - 📫 How to reach me: 
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=skyblue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fbuddhiadikari2)](https://twitter.com/buddhiadikari2)
+[![Twitter URL](https://img.shields.io/twitter/url?color=skyblue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fbuddhiadikari2)](https://twitter.com/LordDraagon)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buddhi-adhikari/)
 
 
