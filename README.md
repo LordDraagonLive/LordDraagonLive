@@ -1,10 +1,10 @@
 ### Hi there, I'm Buddhi Adhikari 👋
 
-- 🔭 I’m currently working on ... Everything and Nothing (Open Banking)
-- 🌱 I’m currently learning ... Angular & Azure
+- 🔭 I’m currently working on ... Everything and Nothing (Middleware Development)
+- 🌱 I’m currently learning ... .NET & Azure
 - 👯 I’m looking to collaborate on ... .NET
 - 🤔 I’m looking for help with ... Nothing really
-- 💬 Ask me about ... Python, Blockchain and .NET
+- 💬 Ask me about ... DevOps, Blockchain and .NET
 - 😄 Pronouns: ... Beep/Bop/Boop (I don't do crazy)
 - 📫 How to reach me: 
 
