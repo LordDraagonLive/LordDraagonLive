@@ -18,7 +18,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?color=skyblue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fbuddhiadikari2)](https://twitter.com/LordDraagon)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buddhi-adhikari/)
 
-[![Portfolio](https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge)](https://www.infiniumdev.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge)](https://www.infiniumdev.me/)
 
 ---
 
