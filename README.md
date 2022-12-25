@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LordDraagonLive&style=flat-square&color=blue" alt=""></p>
 
 
-### Hi there, I'm Buddhi Adhikari 👋 [Personal Website](https://www.infiniumdev.me/)
+### Hi there, I'm [Buddhi Adhikari](https://www.infiniumdev.me/) 👋
 
 - 🔭 I’m currently working on ... Everything and Nothing (Middleware Development)
 - 🌱 I’m currently learning ... .NET & Azure
